@@ -1,0 +1,6 @@
+/***** Customizer Custom CSS *****/
+
+.mh-magazine-thumb, .mh-button { text-align: center; }
+.mh-button .button { min-width: 220px; text-align: center; }
+.customize-pane-parent #accordion-panel-mh_magazine_theme_options .accordion-section-title, #accordion-section-mh_magazine_support .accordion-section-title { color: #fff; background: #008ec2; border-left: 4px solid #bfdeec; }
+.rtl .customize-pane-parent #accordion-panel-mh_magazine_theme_options .accordion-section-title, .rtl #accordion-section-mh_magazine_support .accordion-section-title { border-right: 4px solid #bfdeec; border-left: none; }

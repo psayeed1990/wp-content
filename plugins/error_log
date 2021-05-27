@@ -1,0 +1,20 @@
+[10-Nov-2018 03:10:54 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/bestbab2/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/bestbab2/public_html/wp-content/plugins/hello.php on line 59
+[31-Jan-2019 15:21:25 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/bestbab2/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/bestbab2/public_html/wp-content/plugins/hello.php on line 59
+[08-Apr-2019 15:16:38 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/bestbab2/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/bestbab2/public_html/wp-content/plugins/hello.php on line 59
+[08-Apr-2019 15:16:43 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/bestbab2/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/bestbab2/public_html/wp-content/plugins/hello.php on line 59
+[18-Sep-2019 02:59:32 Asia/Dhaka] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/bestbab2/public_html/wp-content/plugins/hello.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/bestbab2/public_html/wp-content/plugins/hello.php on line 59

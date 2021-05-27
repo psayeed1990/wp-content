@@ -1,0 +1,2350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine v3.8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-18 07:02+0000\n"
+"PO-Revision-Date: 2018-05-18 07:03+0000\n"
+"Last-Translator: Michael <info@mhthemes.com>\n"
+"Language-Team: Romanian\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 :(((n%100>19)||(( n%100==0)&&(n!"
+"=0)))? 2 : 1));\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: ro_RO\n"
+"X-Poedit-SearchPath-0: ."
+
+# @ mh-magazine
+#: functions.php:78
+msgid "Header Navigation"
+msgstr "Navigare superioară"
+
+# @ mh-magazine
+#: functions.php:79
+msgid "Social Icons in Header"
+msgstr "Icoane Sociale în Antet"
+
+# @ mh-magazine
+#: functions.php:80
+msgid "Main Navigation"
+msgstr "Navigare principală"
+
+# @ mh-magazine
+#: functions.php:81
+msgid "Additional Navigation (below Main Navigation)"
+msgstr "Navigare Adițională (sub navigarea principală)"
+
+# @ mh-magazine
+#: functions.php:82
+msgid "Footer Navigation"
+msgstr "Navigare în footer"
+
+# @ mh-magazine
+#: functions.php:83
+msgid "MH Social Widget"
+msgstr "MH Social Widget"
+
+# @ mh-magazine
+#: functions.php:154 sidebar.php:11 sidebar.php:15
+msgctxt "widget area name"
+msgid "Sidebar"
+msgstr "Bara alăturată"
+
+# @ mh-magazine
+#: functions.php:154
+msgid "Widget area (sidebar left/right) on single posts, pages and archives."
+msgstr ""
+"Zonă de piese (bară laterală stânga/dreapta) în articole, pagini și arhive."
+
+# @ mh-magazine
+#: functions.php:156 includes/mh-custom-functions.php:598
+#: includes/mh-custom-functions.php:602
+#, php-format
+msgctxt "widget area name"
+msgid "Sidebar %d"
+msgstr "Bara alăturată %d"
+
+# @ mh-magazine
+#: functions.php:156
+msgid "Second sidebar on single posts, pages and archives."
+msgstr "A doua bară laterală în articole, pagini și arhive."
+
+# @ mh-magazine
+#: functions.php:158 functions.php:159
+#, php-format
+msgctxt "widget area name"
+msgid "Header %d - Advertisement"
+msgstr "Antet %d - Publicitate"
+
+# @ mh-magazine
+#: functions.php:158
+msgid ""
+"Advertisement position located above the header, suitable for a single text "
+"widget."
+msgstr ""
+"Poziție pentru bloc de publicitate situat deasupra titlului, potrivit pentru "
+"o singură piesă de text."
+
+# @ mh-magazine
+#: functions.php:159
+msgid "Widget area on top of the site."
+msgstr "Zonă de piese în partea superioară a site-ului."
+
+# @ mh-magazine
+#: functions.php:160 functions.php:166 functions.php:170
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - Full Width"
+msgstr "Home %d - Lățime Maximă"
+
+# @ mh-magazine
+#: functions.php:160 functions.php:161 functions.php:162 functions.php:163
+#: functions.php:164 functions.php:165 functions.php:166 functions.php:167
+#: functions.php:168 functions.php:169 functions.php:170
+msgid "Widget area on homepage."
+msgstr "Zonă de piese pagină principală - Home."
+
+# @ mh-magazine
+#: functions.php:161 functions.php:164
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 2/3 Width"
+msgstr "Home %d - 2/3 Lățime"
+
+# @ mh-magazine
+#: functions.php:162 functions.php:163 functions.php:165 functions.php:167
+#: functions.php:168 functions.php:169 functions.php:172
+#: template-homepage.php:22 template-homepage.php:26 template-homepage.php:40
+#: template-homepage.php:44 template-homepage.php:62 template-homepage.php:66
+#: template-homepage.php:85 template-homepage.php:89 template-homepage.php:103
+#: template-homepage.php:107 template-homepage.php:121
+#: template-homepage.php:125 template-homepage.php:142
+#: template-homepage.php:146
+#, php-format
+msgctxt "widget area name"
+msgid "Home %d - 1/3 Width"
+msgstr "Home %d - 1/3 Lățime"
+
+# @ mh-magazine
+#: functions.php:172
+msgid "Sidebar on homepage."
+msgstr "Bară laterală pe pagina principală - Home."
+
+# @ mh-magazine
+#: functions.php:174 functions.php:175
+#, php-format
+msgctxt "widget area name"
+msgid "Posts %d - Advertisement"
+msgstr "Articole %d - Publicitate"
+
+# @ mh-magazine
+#: functions.php:174
+msgid "Widget area above single post content."
+msgstr "Zonă de piese deasupra conținutului unui articol."
+
+# @ mh-magazine
+#: functions.php:175
+msgid "Widget area below single post content."
+msgstr "Zonă de piese dedesubtul conținutului unui articol."
+
+# @ mh-magazine
+#: functions.php:176 functions.php:177
+#, php-format
+msgctxt "widget area name"
+msgid "Pages %d - Advertisement"
+msgstr "Pagini %d - Publicitate"
+
+# @ mh-magazine
+#: functions.php:176
+msgid "Widget area above single page content."
+msgstr "Zonă de piese deasupra conținutului unei pagini."
+
+# @ mh-magazine
+#: functions.php:177
+msgid "Widget area below single page content."
+msgstr "Zonă de piese dedesubtul conținutului unei pagini."
+
+# @ mh-magazine
+#: functions.php:178 functions.php:179 functions.php:180 functions.php:181
+#, php-format
+msgctxt "widget area name"
+msgid "Footer %d - 1/4 Width"
+msgstr "Subsol %d - 1/4 Lățime"
+
+# @ mh-magazine
+#: functions.php:178 functions.php:179 functions.php:180 functions.php:181
+msgid "Widget area in footer."
+msgstr "Zonă de piese în subsol."
+
+# @ mh-magazine
+#: functions.php:182 template-contact.php:27 template-contact.php:31
+msgctxt "widget area name"
+msgid "Contact Sidebar"
+msgstr "Bară Laterală Pagină Contact"
+
+# @ mh-magazine
+#: functions.php:182
+msgid "Widget area (sidebar) on contact page template."
+msgstr "Zonă de piese (bară laterală) în schema paginii contact."
+
+# @ mh-magazine
+#: functions.php:184 template-contact.php:46 template-contact.php:50
+#, php-format
+msgctxt "widget area name"
+msgid "Contact Sidebar %d"
+msgstr "Bară Laterală Contact %d"
+
+# @ mh-magazine
+#: functions.php:184
+msgid "2nd widget area (sidebar) on contact page template."
+msgstr "A doua zonă de piese (bară laterală) în schema paginii contact."
+
+# @ mh-magazine
+#: 404.php:8 includes/mh-compatibility.php:38 includes/mh-breadcrumb.php:59
+msgid "Page not found (404)"
+msgstr "Pagina nu a fost găsită (404)"
+
+# @ mh-magazine
+#: 404.php:13 content-none.php:14
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Se pare că nu găsim ceea ce căutați. Poate o nouă căutare va ajuta."
+
+# @ mh-magazine
+#: 404.php:17 content-none.php:19 includes/mh-customizer.php:118
+#: includes/mh-customizer.php:120 includes/mh-customizer.php:190
+#: includes/mh-breadcrumb.php:61
+msgid "Search"
+msgstr "Căutare"
+
+#: 404.php:24 content-none.php:26
+msgid "Latest Articles"
+msgstr "Articole recente"
+
+# @ mh-magazine
+#: 404.php:29 content-none.php:31
+msgid "Popular Articles"
+msgstr "Articole populare"
+
+# @ mh-magazine
+#: content-social.php:5
+msgid "Share on Facebook"
+msgstr "Distribuie pe Facebook"
+
+# @ mh-magazine
+#: content-social.php:8
+msgid "Tweet This Post"
+msgstr "Tweet Aespre Acest Articol"
+
+#: content-social.php:11
+msgid "Share on LinkedIn"
+msgstr ""
+
+# @ mh-magazine
+#: content-social.php:14
+msgid "Pin This Post"
+msgstr "Pin Acest Articol"
+
+# @ mh-magazine
+#: content-social.php:17
+msgid "Share on Google+"
+msgstr "Distribuie pe Google+"
+
+#: content-social.php:20
+msgid "Send this article to a friend"
+msgstr "Trimite acest articol la prietenii tăi"
+
+#: content-social.php:23
+msgid "Print this article"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+# @ mh-magazine
+#: template-contact.php:31 template-contact.php:50 template-homepage.php:26
+#: template-homepage.php:44 template-homepage.php:66 template-homepage.php:89
+#: template-homepage.php:107 template-homepage.php:125
+#: template-homepage.php:146 sidebar.php:15
+#: woocommerce/mh-custom-woocommerce.php:44
+#: includes/mh-custom-functions.php:602
+#, php-format
+msgid ""
+"Please navigate to %1s in your WordPress dashboard and add some widgets into "
+"the %1s widget area."
+msgstr ""
+"Navigați la %1s din tabloul de bord WordPress și adăugați câteva piese în "
+"zona de piese %1s."
+
+# @ mh-magazine
+#: template-contact.php:31 template-contact.php:50 template-homepage.php:26
+#: template-homepage.php:44 template-homepage.php:66 template-homepage.php:89
+#: template-homepage.php:107 template-homepage.php:125
+#: template-homepage.php:146 sidebar.php:15
+#: woocommerce/mh-custom-woocommerce.php:44
+#: includes/mh-custom-functions.php:602
+msgid "Appearance &#8594; Widgets"
+msgstr "Aspect &#8594; Widgets"
+
+#: content-none.php:4
+msgid "Nothing found"
+msgstr "Nu am găsit nimic"
+
+# @ mh-magazine
+#: content-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Ne pare rău dar nu am găsit ceea ce căutați. Încercați din nou folosind alte "
+"cuvinte cheie."
+
+#: comments.php:12
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Comentariu"
+msgstr[1] "%1$s Comentarii"
+msgstr[2] "%1$s de Comentarii"
+
+# @ mh-magazine
+#: comments.php:21 includes/mh-custom-functions.php:381
+#: includes/mh-custom-functions.php:577
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh-magazine
+#: comments.php:21 includes/mh-custom-functions.php:381
+#: includes/mh-custom-functions.php:578
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: comments.php:29
+#, php-format
+msgid "1 Trackback / Pingback"
+msgid_plural "%1$s Trackbacks / Pingbacks"
+msgstr[0] "1 Trackback / Pingback"
+msgstr[1] "%1$s Trackbacks-uri / Pingbacks-uri"
+msgstr[2] "%1$s de Trackback-uri / Pingback-uri"
+
+# @ mh-magazine
+#: comments.php:42
+msgid "Comments are closed."
+msgstr "Comentariile sunt închise."
+
+# @ mh-magazine
+#: comments.php:49
+msgid "Be the first to comment"
+msgstr "Fii primul care comentează"
+
+# @ mh-magazine
+#: comments.php:56
+msgid "Leave a Reply"
+msgstr "Lasă un răspuns"
+
+# @ mh-magazine
+#: comments.php:57
+msgid "Your email address will not be published."
+msgstr "Adresa ta de email nu va fi publicată."
+
+# @ mh-magazine
+#: comments.php:59
+msgid "Comment"
+msgstr "Comentează"
+
+# @ mh-magazine
+#: content-carousel.php:8 content-list.php:8 content-large.php:14
+#: content-large.php:16 content-grid.php:8
+#: includes/widgets/mh-posts-horizontal.php:83
+#: includes/widgets/mh-posts-focus.php:84
+#: includes/widgets/mh-posts-focus.php:115
+#: includes/widgets/mh-custom-pages.php:42
+#: includes/widgets/mh-custom-pages.php:66
+#: includes/widgets/mh-posts-stacked.php:79
+#: includes/widgets/mh-posts-stacked.php:112 includes/widgets/mh-slider.php:69
+#: includes/widgets/mh-slider.php:71 includes/widgets/mh-custom-posts.php:82
+#: includes/widgets/mh-custom-posts.php:113
+#: includes/widgets/mh-spotlight.php:65 includes/widgets/mh-spotlight.php:67
+#: includes/widgets/mh-category-columns.php:68
+#: includes/widgets/mh-category-columns.php:70
+#: includes/widgets/mh-posts-lineup.php:82
+#: includes/widgets/mh-posts-lineup.php:84
+#: includes/widgets/mh-posts-digest.php:84
+msgid "No Picture"
+msgstr "Fără Fotografie"
+
+# @ mh-magazine
+#: search.php:9 includes/mh-compatibility.php:40
+#, php-format
+msgid "Search Results for %s"
+msgstr "Rezultatele căutării pentru %s"
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:24
+#, php-format
+msgid "About %s"
+msgstr "Despre %s"
+
+# @ mh-magazine
+#: content-author-box.php:28
+#, php-format
+msgid "More articles written by %s"
+msgstr "Mai multe articole scrise de %s"
+
+# @ mh-magazine
+#: content-author-box.php:29
+#, php-format
+msgid "%s Article"
+msgid_plural "%s Articles"
+msgstr[0] "Articolul %s"
+msgstr[1] "Articolele %s"
+msgstr[2] "Articolele %s"
+
+# @ mh-magazine
+#: content-author-box.php:40
+msgid ""
+"The author has not yet added any personal or biographical info to his author "
+"profile."
+msgstr ""
+"Autorul nu a adăugat încă informații personale sau biografice la profilul "
+"său de autor."
+
+# @ mh-magazine
+#: content-author-box.php:47
+#, php-format
+msgid "Visit the website of %s"
+msgstr "Vizitați pagina %s"
+
+# @ mh-magazine
+#: content-author-box.php:49 includes/mh-custom-functions.php:561
+msgid "Website"
+msgstr "Website"
+
+# @ mh-magazine
+#: content-author-box.php:53
+#, php-format
+msgid "Follow %s on Facebook"
+msgstr "Urmărește %s pe Facebook"
+
+# @ mh-magazine
+#: content-author-box.php:55 admin/admin.php:289
+msgid "Facebook"
+msgstr "Facebook"
+
+#: content-author-box.php:59
+#, php-format
+msgid "Follow %s on Instagram"
+msgstr ""
+
+#: content-author-box.php:61 admin/admin.php:290
+msgid "Instagram"
+msgstr ""
+
+# @ mh-magazine
+#: content-author-box.php:65
+#, php-format
+msgid "Follow %s on Twitter"
+msgstr "Urmărește %s pe Twitter"
+
+# @ mh-magazine
+#: content-author-box.php:67 admin/admin.php:291
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ mh-magazine
+#: content-author-box.php:71
+#, php-format
+msgid "Follow %s on Google+"
+msgstr "Urmărește %s pe Google+"
+
+# @ mh-magazine
+#: content-author-box.php:73 admin/admin.php:292
+msgid "Google+"
+msgstr "Google+"
+
+# @ mh-magazine
+#: content-author-box.php:77
+#, php-format
+msgid "Follow %s on YouTube"
+msgstr "Urmărește %s pe YouTube"
+
+# @ mh-magazine
+#: content-author-box.php:79 admin/admin.php:293
+msgid "YouTube"
+msgstr "YouTube"
+
+#: content-author-box.php:83
+#, php-format
+msgid "Follow %s on LinkedIn"
+msgstr "Fii prieten cu %s pe Linkedin"
+
+#: content-author-box.php:85 admin/admin.php:294
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: content-author-box.php:89
+#, php-format
+msgid "Follow %s on Xing"
+msgstr "Fii prieten cu %s pe Xing"
+
+#: content-author-box.php:91 admin/admin.php:295
+msgid "Xing"
+msgstr "Xing"
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:57 includes/widgets/mh-authors.php:99
+msgid "Authors"
+msgstr "Autori"
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+# @ mh-magazine
+#: template-sitemap.php:12
+msgid "Recent Articles"
+msgstr "Articole recente"
+
+# @ mh-magazine
+#: template-sitemap.php:27
+msgid "Pages"
+msgstr "Pagini"
+
+# @ mh-magazine
+#: template-sitemap.php:37 includes/mh-customizer.php:112
+#: includes/mh-compatibility.php:32
+msgid "Archives"
+msgstr "Arhivă"
+
+# @ mh-magazine
+#: template-sitemap.php:47
+msgid "Categories"
+msgstr "Categorii"
+
+# @ mh-magazine
+#: template-sitemap.php:51
+msgid "No categories"
+msgstr "Nicio categorie"
+
+#: woocommerce/mh-custom-woocommerce.php:13
+#: woocommerce/mh-custom-woocommerce.php:40
+#: woocommerce/mh-custom-woocommerce.php:44
+msgctxt "widget area name"
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+# @ mh-magazine
+#: woocommerce/mh-custom-woocommerce.php:13
+msgid "Widget area (sidebar) on WooCommerce pages"
+msgstr "Zona de piese (bară alăturată) pe paginile WooCommerce"
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:209 includes/widgets/mh-authors.php:46
+#: includes/widgets/mh-authors.php:52
+#, php-format
+msgid "Articles by %s"
+msgstr "Articole scrise de %s"
+
+#: includes/mh-custom-functions.php:341
+msgctxt "comment count"
+msgid "0"
+msgstr "0"
+
+#: includes/mh-custom-functions.php:341
+msgctxt "comment count"
+msgid "1"
+msgstr "1"
+
+#: includes/mh-custom-functions.php:341
+msgctxt "comment count"
+msgid "%"
+msgstr "%"
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:421 includes/mh-custom-functions.php:426
+msgid "Back to article"
+msgstr "Înapoi la articol"
+
+#: includes/mh-custom-functions.php:423 includes/mh-custom-functions.php:430
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/mh-custom-functions.php:437 includes/mh-custom-functions.php:440
+msgid "Next"
+msgstr "Următor"
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:466 includes/mh-customizer.php:135
+msgid "Related Articles"
+msgstr "Articole asemănătoare"
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:559
+msgid "Name "
+msgstr "Nume "
+
+# @ mh-magazine
+#: includes/mh-custom-functions.php:560
+msgid "Email "
+msgstr "Email "
+
+#: includes/mh-custom-functions.php:562
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: includes/mh-custom-functions.php:707
+#, php-format
+msgid "Copyright &copy; %1$s | MH Magazine WordPress Theme by %2$s"
+msgstr "Copyright &copy; %1$s | MH Magazine WordPress Theme de %2$s"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:14 admin/admin.php:111 admin/admin.php:118
+msgid "Theme Documentation"
+msgstr "Documentația temei"
+
+#: includes/mh-customizer.php:19 admin/admin.php:128 admin/admin.php:138
+msgid "Replicate Theme Demos"
+msgstr "Replică Demo Teme"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:24 admin/admin.php:91 admin/admin.php:121
+msgid "Support Center"
+msgstr "Centru de asistență"
+
+#: includes/mh-customizer.php:29 admin/admin.php:182
+msgid "Installation Service"
+msgstr "Serviciu de Instalare"
+
+#: includes/mh-customizer.php:34 admin/admin.php:97 admin/admin.php:189
+#: admin/admin.php:196
+msgid "MH Themes Showcase"
+msgstr "MH Themes Showcase"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:42 admin/admin.php:145
+msgid "Theme Options"
+msgstr "Opțiunile temei"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:46
+msgid "General"
+msgstr "General"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:47
+msgid "Layout - General"
+msgstr "Aranjament - General"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:48
+msgid "Layout - Header"
+msgstr "Aranjament - Antet"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:49
+msgid "Layout - Posts/Pages"
+msgstr "Aranjament - Articole/Pagini"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:50
+msgid "Layout - Post Meta"
+msgstr "Aranjament - Meta pentru Articole"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:51
+msgid "Advertising"
+msgstr "Publicitate"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:52
+msgid "Tracking Code"
+msgstr "Cod de trafic"
+
+#: includes/mh-customizer.php:53
+msgid "Theme Support"
+msgstr "Asistență Temă"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:73 includes/mh-customizer.php:117
+#: includes/mh-customizer.php:119 includes/mh-customizer.php:188
+#: includes/mh-customizer.php:238
+msgid "News Ticker"
+msgstr "Pendul de Știri"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:105
+msgid "Custom Excerpt Length in Words"
+msgstr "Lungimea extrasului personalizat în cuvinte"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:106
+msgid "Custom Excerpt More-Text"
+msgstr "Extras personalizat text pentru link mai mult"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:107
+msgid "Copyright Text"
+msgstr "Text de copyright"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:109
+msgid "Site Layout"
+msgstr "Schemă Site"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:109 includes/mh-customizer.php:184
+msgid "Boxed"
+msgstr "Boxed"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:109 includes/mh-customizer.php:185
+msgid "Wide"
+msgstr "Larg"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:110
+msgid "Number of Sidebars"
+msgstr "Număr de bări laterale"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:110 includes/mh-customizer.php:178
+msgid "One Sidebar"
+msgstr "O bară laterală"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:110 includes/mh-customizer.php:179
+msgid "Two Sidebars"
+msgstr "Două bări laterale"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:110
+msgid "No Sidebars"
+msgstr "Nicio bară laterală"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:111
+msgid "Position of default Sidebar"
+msgstr "Poziția bării laterale standard"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:111 includes/mh-customizer.php:182
+msgid "Left"
+msgstr "Stânga"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:111 includes/mh-customizer.php:183
+msgid "Right"
+msgstr "Dreapta"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:112 includes/mh-customizer.php:113
+#: includes/mh-customizer.php:113 includes/mh-customizer.php:113
+#: includes/mh-customizer.php:113 includes/mh-customizer.php:113
+#: includes/mh-customizer.php:113 includes/mh-customizer.php:113
+#: includes/mh-customizer.php:113 includes/mh-customizer.php:191
+#: includes/mh-customizer.php:192 includes/mh-customizer.php:193
+#: includes/mh-customizer.php:194 includes/mh-customizer.php:195
+#: includes/mh-customizer.php:196 includes/mh-customizer.php:197
+#: includes/mh-customizer.php:198 includes/widgets/mh-slider.php:195
+#: includes/widgets/mh-slider.php:196 includes/widgets/mh-slider.php:197
+#: includes/widgets/mh-slider.php:198 includes/widgets/mh-slider.php:199
+#: includes/widgets/mh-custom-slider.php:266
+#: includes/widgets/mh-custom-slider.php:267
+#: includes/widgets/mh-custom-slider.php:268
+#: includes/widgets/mh-custom-slider.php:269
+#: includes/widgets/mh-custom-slider.php:270
+#: includes/widgets/mh-carousel.php:155 includes/widgets/mh-carousel.php:156
+#, php-format
+msgctxt "options panel"
+msgid "Layout %d"
+msgstr "Compoziție %d"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:113
+msgid "Widget Titles"
+msgstr "Titluri Piese"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:114
+msgid "Back to Top Button"
+msgstr "Buton Înapoi Sus"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:114 includes/mh-customizer.php:116
+#: includes/mh-customizer.php:128 includes/mh-customizer.php:129
+#: includes/mh-customizer.php:130 includes/mh-customizer.php:132
+#: includes/mh-customizer.php:133 includes/mh-customizer.php:134
+#: includes/mh-customizer.php:135 includes/mh-customizer.php:136
+#: includes/mh-customizer.php:138 includes/mh-customizer.php:139
+#: includes/mh-customizer.php:140 includes/mh-customizer.php:141
+#: includes/mh-customizer.php:142 includes/mh-customizer.php:180
+#: includes/mh-google-webfonts.php:111
+msgid "Enable"
+msgstr "Activează"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:114 includes/mh-customizer.php:116
+#: includes/mh-customizer.php:117 includes/mh-customizer.php:118
+#: includes/mh-customizer.php:119 includes/mh-customizer.php:120
+#: includes/mh-customizer.php:128 includes/mh-customizer.php:129
+#: includes/mh-customizer.php:130 includes/mh-customizer.php:131
+#: includes/mh-customizer.php:132 includes/mh-customizer.php:133
+#: includes/mh-customizer.php:134 includes/mh-customizer.php:135
+#: includes/mh-customizer.php:136 includes/mh-customizer.php:138
+#: includes/mh-customizer.php:139 includes/mh-customizer.php:140
+#: includes/mh-customizer.php:141 includes/mh-customizer.php:142
+#: includes/mh-customizer.php:181 includes/mh-google-webfonts.php:111
+msgid "Disable"
+msgstr "Dezactivează"
+
+#: includes/mh-customizer.php:116
+msgid "Transparent Header"
+msgstr "Antet Transparent"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:117
+msgid "Header Bar Content (Top - Left)"
+msgstr "Conținut Bară Antet (Sus - Stânga)"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:117 includes/mh-customizer.php:119
+#: includes/mh-customizer.php:186
+msgid "Navigation"
+msgstr "Navigare"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:117 includes/mh-customizer.php:118
+#: includes/mh-customizer.php:119 includes/mh-customizer.php:120
+#: includes/mh-customizer.php:187
+msgid "Date"
+msgstr "Dată"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:118
+msgid "Header Bar Content (Top - Right)"
+msgstr "Conținut Bară Antet (Sus - Dreapta)"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:118 includes/mh-customizer.php:120
+#: includes/mh-customizer.php:189
+msgid "Social Icons"
+msgstr "Icoane Medii Sociale"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:119
+msgid "Header Bar Content (Bottom - Left)"
+msgstr "Conținut Bară Antet (Jos - Stânga)"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:120
+msgid "Header Bar Content (Bottom - Right)"
+msgstr "Conținut Bară Antet (Jos - Dreapta)"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:121
+msgid "Ticker Title"
+msgstr "Numele pendulului"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:122
+msgid "Limit Post Number"
+msgstr "Limitează numărul de postări"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:123
+msgid "Custom Categories (use ID - e.g. 3,5,9):"
+msgstr "Categorii personalizate (folosește ID - e.g. 3,5,9):"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:124
+msgid "Custom Tags (use slug - e.g. lifestyle):"
+msgstr "Tag-uri personalizate (folosește slug - e.g. - stil):"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:125
+msgid "Skip Posts (Offset):"
+msgstr "Sari peste postări (Ofset):"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:126 includes/widgets/mh-nip.php:155
+#: includes/widgets/mh-posts-horizontal.php:194
+#: includes/widgets/mh-slider.php:212 includes/widgets/mh-custom-posts.php:262
+#: includes/widgets/mh-carousel.php:161
+#: includes/widgets/mh-posts-digest.php:261
+msgid "Ignore Sticky Posts"
+msgstr "Ignoră postările lipicioase"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:128
+msgid "Breadcrumb Navigation"
+msgstr "Navigare firimițată"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:129
+msgid "Featured Image on Posts"
+msgstr "Imagine recomandată în postări"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:130
+msgid "Link Featured Image to Attachment"
+msgstr "Leagă imaginea recomandată de atașament"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:131
+msgid "Social Buttons on Posts"
+msgstr "Butoane sociale în postări"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:131
+msgid "Top and bottom"
+msgstr "Deasupra și dedesubt"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:131
+msgid "Top of posts"
+msgstr "Deasupra postărilor"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:131
+msgid "Bottom of posts"
+msgstr "Sub postări"
+
+#: includes/mh-customizer.php:132
+msgid "Tags on Posts"
+msgstr "Etichete în Articole"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:133
+msgid "Author Box"
+msgstr "Căsuța autorilor"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:134
+msgid "Author Box Contact"
+msgstr "Contact pentru căsuța autorilor"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:136
+msgid "Post/Attachment Navigation"
+msgstr "Navigare în Postări/Atașamente"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:138
+msgid "Post Meta: Date"
+msgstr "Meta Articol: Dată"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:139
+msgid "Post Meta: Author"
+msgstr "Meta Articol: Autor"
+
+#: includes/mh-customizer.php:140
+msgid "Post Meta: Categories on Posts"
+msgstr "Meta Articol: Categorii în Articole"
+
+#: includes/mh-customizer.php:141
+msgid "Post Meta: Categories on Archives"
+msgstr "Meta Articol: Categorii în Arhive"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:142
+msgid "Post Meta: Comment Count"
+msgstr "Meta Articol: Număr de Comentarii"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:144
+msgid "Ad Code for Content Ad on Posts"
+msgstr "Cod publicitar pentru Publicitate de conținut, în postări"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:145
+msgid "Ad Code for Ads on Archives"
+msgstr "Cod publicitar pentru publicitate în arhivă"
+
+#: includes/mh-customizer.php:146
+msgid "Display Ad every x Posts on Archives (applies to Layout 1, 2 and 3)"
+msgstr ""
+"Arată Publicitate la fiecare x Articole în Arhive (pentru Schema 1,2 și 3)"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:148
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "Cod de urmărire (e.g. Google Analytics)"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:199
+msgid "Top of Posts"
+msgstr "Deasupra postărilor"
+
+# @ mh-magazine
+#: includes/mh-customizer.php:200
+msgid "Bottom of Posts"
+msgstr "Sub postări"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:6
+msgid "Arabic"
+msgstr "Arab"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:7
+msgid "Cyrillic"
+msgstr "Chirilic"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:8
+msgid "Cyrillic Extended"
+msgstr "Chirilic Extins"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:9
+msgid "Greek"
+msgstr "Grec"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:10
+msgid "Greek Extended"
+msgstr "Grec Extins"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:11
+msgid "Hebrew"
+msgstr "Ebraic"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:12
+msgid "Latin"
+msgstr "Latin"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:13
+msgid "Latin Extended"
+msgstr "Latin Extins"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:14
+msgid "Vietnamese"
+msgstr "Vietnamez"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:97
+msgid "Typography"
+msgstr "Tipografie"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:110
+msgid "Change default Font Size (px)"
+msgstr "Schimbă mărimea fontului prestabilit (px)"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:111
+msgid "Google Webfonts"
+msgstr "Webfonturi Google"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:112
+msgid "Google Webfonts Characters"
+msgstr "Caracterele Webfonturilor Google"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:113
+msgid "Google Webfont for Headings"
+msgstr "Webfonturi Google pentru Titlurile principale"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:114
+msgid "Google Webfont for Body Text"
+msgstr "Webfonturi Google pentru text"
+
+# @ mh-magazine
+#: includes/mh-google-webfonts.php:115
+msgid "Imported Google Font Styles"
+msgstr "Stiluri de fonturi importate Google"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:24
+msgid "Background Header"
+msgstr "Titlu imagine de fundal"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:25
+msgid "Background Inner"
+msgstr "Interior imagine de fundal"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:26 includes/mh-custom-colors.php:27
+#: includes/mh-custom-colors.php:28
+#, php-format
+msgctxt "options panel"
+msgid "Theme Color %d"
+msgstr "Culoarea temei %d"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:29
+msgid "Text: General"
+msgstr "Text: General"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:30 includes/mh-custom-colors.php:31
+#: includes/mh-custom-colors.php:32
+#, php-format
+msgctxt "options panel"
+msgid "Text: Colored Sections (Color %d)"
+msgstr "Text: secșiuni colorate (Culoare %d)"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:33
+msgid "Text: Post Meta"
+msgstr "Text: Postare Meta"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:34
+msgid "Links: Content on Posts/Pages"
+msgstr "Linkuri: Conținut în Articole/Pagini"
+
+# @ mh-magazine
+#: includes/mh-custom-colors.php:35
+msgid "Links: Hover Color"
+msgstr "Linkuri: culoare Hover"
+
+# @ mh-magazine
+#: includes/mh-compatibility.php:20
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Articole scrise de %s"
+
+# @ mh-magazine
+#: includes/mh-compatibility.php:86
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la %2$s"
+
+# @ mh-magazine
+#: includes/mh-compatibility.php:92
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul așteaptă să fie moderat."
+
+# @ mh-magazine
+#: includes/mh-compatibility.php:99
+msgid "Edit"
+msgstr "Editează"
+
+# @ mh-magazine
+#: includes/mh-compatibility.php:114 includes/mh-compatibility.php:116
+msgid "Custom CSS"
+msgstr "CSS personalizat"
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:15
+msgid "Home"
+msgstr "Acasă"
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:27
+msgid "Media"
+msgstr "Media"
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:71 includes/mh-breadcrumb.php:74
+msgid "Yearly Archives"
+msgstr "Arhivă anuală"
+
+# @ mh-magazine
+#: includes/mh-breadcrumb.php:72
+msgid "Monthly Archives"
+msgstr "Arhivă lunară"
+
+#: admin/admin.php:26
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+"Acțiune Eșuată. Vă rugăm să reîncărcați pagina și să încercați din nou."
+
+#: admin/admin.php:29
+msgid "You do not have the necessary permission to perform this action."
+msgstr "Nu ai permisiunea necesară pentru a face această acțiune."
+
+#: admin/admin.php:46
+msgid "Dismiss this notice."
+msgstr "Respinge această notificare."
+
+#: admin/admin.php:49
+#, php-format
+msgid ""
+"Thanks for using %s by MH Themes! To get started please make sure you visit "
+"our %swelcome page%s."
+msgstr ""
+"Mulțumim pentru că utilizezi %s de MH Themes ! Pentru a începe te rugăm să "
+"vizitezi %spagina de întâmpinare%s."
+
+#: admin/admin.php:52
+#, php-format
+msgid "Get Started with %s"
+msgstr "Începe cu %s"
+
+# @ mh-magazine
+#: admin/admin.php:63
+msgid "Welcome to MH Magazine"
+msgstr "Bun venit la MH Magazine"
+
+# @ mh-magazine
+#: admin/admin.php:63
+msgid "Theme Info"
+msgstr "Informațiile temei"
+
+# @ mh-magazine
+#: admin/admin.php:73
+#, php-format
+msgid "Welcome to %1s %2s"
+msgstr "Bun venit la %1s %2s"
+
+# @ mh-magazine
+#: admin/admin.php:77
+msgid "Theme Screenshot"
+msgstr "Captura de ecran a temei"
+
+# @ mh-magazine
+#: admin/admin.php:86
+msgid "Important Links:"
+msgstr "Linkuri importante:"
+
+# @ mh-magazine
+#: admin/admin.php:88
+msgid "Theme Info Page"
+msgstr "Pagina informativă a temei"
+
+#: admin/admin.php:94
+msgid "Video Tutorials"
+msgstr "Tutoriale Video"
+
+# @ mh-magazine
+#: admin/admin.php:104
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Începi cu %s"
+
+#: admin/admin.php:114
+#, php-format
+msgid ""
+"Do you need support with the configuration of %s? Usually you can find all "
+"necessary information to configure your theme in the theme documentation. In "
+"addition you can find several WordPress tutorials in our support center. For "
+"further assistance, please contact our support staff."
+msgstr ""
+"Aveți nevoie de asistență cu configurația %s? De obicei, puteți găsi toate "
+"informațiile necesare pentru a vă configura tema în documentația noastră. În "
+"plus, puteți găsi mai multe tutoriale WordPress în centrul nostru de "
+"asistență. Pentru asistență suplimentară, vă rugăm să contactați personalul "
+"nostru de asistență."
+
+#: admin/admin.php:131
+#, php-format
+msgid ""
+"%s is a flexible WordPress theme for various topics and content genres. We "
+"have created several theme demos to show what is possible with this theme, "
+"just by using the included features, options and custom widgets. You can "
+"configure your theme to replicate these demo layouts."
+msgstr ""
+"%s este o temă flexibilă WordPress pentru diverse subiecte și genuri de "
+"conținut. Am creat mai multe demonstrații tematice pentru a arăta ce este "
+"posibil cu această temă, doar folosind caracteristicile incluse, opțiunile "
+"și widget-urile personalizate. Puteți configura tema pentru a replica aceste "
+"machete demo."
+
+#: admin/admin.php:135
+msgid "Theme Demos"
+msgstr "Machete Demo"
+
+# @ mh-magazine
+#: admin/admin.php:148
+#, php-format
+msgid ""
+"%s WordPress theme supports the Theme Customizer for all theme settings. "
+"Click \"Customize Theme\" to open the Customizer now."
+msgstr ""
+"Tema WordPress %s suportă personalizare pentru toate setările temei. Apasă "
+"”Personalizează Tema” pentru a începe personalizarea acum."
+
+# @ mh-magazine
+#: admin/admin.php:152
+msgid "Customize Theme"
+msgstr "Personalizează tema"
+
+#: admin/admin.php:161
+msgid "Upgrade to Lifetime Updates and Support"
+msgstr "Treceți la actualizări și asistență pe toată durata vieții"
+
+#: admin/admin.php:164
+msgid ""
+"If you have purchased a single WordPress theme and now want to gain access "
+"to all WordPress themes by MH Themes including lifetime updates and support, "
+"you can upgrade to MH Themes Lifetime right away."
+msgstr ""
+"Dacă ați achiziționat o singură temă WordPress și acum doriți să obțineți "
+"acces la toate temele WordPress de teme MH, inclusiv actualizări de viață și "
+"asistență, puteți trece imediat la MH Themes Lifetime."
+
+#: admin/admin.php:168
+msgid "Upgrade to MH Themes Lifetime"
+msgstr "Actualizați la MH Themes Lifetime"
+
+#: admin/admin.php:175
+msgid "Theme Installation / Configuration Service"
+msgstr "Serviciu de instalare / configurare Teme"
+
+#: admin/admin.php:178
+msgid ""
+"In case you are new to WordPress and if you do not want to install and "
+"configure the theme by yourself, then we also offer an installation service. "
+"We can configure the theme for you to replicate the layout of the theme demo."
+msgstr ""
+"În cazul în care sunteți nou în WordPress și dacă nu doriți să instalați și "
+"să configurați singuri tema, atunci vă oferim și un serviciu de instalare. "
+"Putem configura tema pentru a replica aspectul oricărui demo."
+
+#: admin/admin.php:192
+#, php-format
+msgid ""
+"Would you like to see what other users are doing with their WordPress theme? "
+"In the MH Themes Showcase you can see several examples of user sites that "
+"are running %s WordPress theme. If you like, you can add your website to the "
+"showcase as well."
+msgstr ""
+"Doriți să vedeți ce fac alți utilizatori cu tema lor WordPress? În "
+"prezentarea MH Themes puteți vedea câteva exemple de site-uri care rulează "
+"tema WordPress %s. Dacă doriți, puteți adăuga și site-ul dvs."
+
+#: admin/admin.php:199
+msgid "Add Website to Showcase"
+msgstr "Adaugă Site la Showcase"
+
+# @ mh-magazine
+#: admin/admin.php:208
+#, php-format
+msgid "%1s WordPress theme is proudly brought to you by %2s."
+msgstr "Tema WordPress %1s vă este oferită cu mândrie de către %2s."
+
+# @ mh-magazine
+#: admin/admin.php:218
+msgid "Post Options"
+msgstr "Opțiuni articol"
+
+# @ mh-magazine
+#: admin/admin.php:228
+msgid "Subheading (will be displayed below post title)"
+msgstr "Subtitlu (va fi afișat sub titlul postării)"
+
+# @ mh-magazine
+#: admin/admin.php:233
+msgid "Alternative ad code (this will overwrite the global content ad code)"
+msgstr ""
+"Cod de publicitate alternativ (va suprascrie conținutul codurilor de "
+"publicitate generale)"
+
+# @ mh-magazine
+#: admin/admin.php:240
+msgid "Disable Content Ad for this Post"
+msgstr "Dezactivaţi conţinutul publicitar pentru acest post"
+
+# @ mh-magazine
+#: admin/admin.php:244
+msgid "Disable Featured Image for this Post"
+msgstr "Dezactivați imaginea recomandată pentru acest post"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:8
+msgctxt "widget name"
+msgid "MH News in Pictures"
+msgstr "MH News in Pictures"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:11
+msgid ""
+"MH News in Pictures widget to display a gallery of thumbnails linked to the "
+"post content."
+msgstr ""
+"MH News in Pictures pentru a afișa o galerie de miniaturi care sunt legate "
+"de articolele respective."
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:115 includes/widgets/mh-posts-horizontal.php:150
+#: includes/widgets/mh-recent-comments.php:69
+#: includes/widgets/mh-posts-focus.php:190 includes/widgets/mh-social.php:41
+#: includes/widgets/mh-custom-pages.php:116
+#: includes/widgets/mh-posts-stacked.php:179
+#: includes/widgets/mh-custom-posts.php:193
+#: includes/widgets/mh-spotlight.php:144
+#: includes/widgets/mh-facebook-page.php:50 includes/widgets/mh-authors.php:102
+#: includes/widgets/mh-custom-slider.php:159
+#: includes/widgets/mh-custom-slider.php:180
+#: includes/widgets/mh-custom-slider.php:201
+#: includes/widgets/mh-custom-slider.php:222
+#: includes/widgets/mh-custom-slider.php:243
+#: includes/widgets/mh-category-columns.php:155
+#: includes/widgets/mh-carousel.php:114 includes/widgets/mh-tabbed.php:106
+#: includes/widgets/mh-author-bio.php:51
+#: includes/widgets/mh-posts-lineup.php:178
+#: includes/widgets/mh-posts-digest.php:200 includes/widgets/mh-youtube.php:57
+#: includes/widgets/mh-posts-large.php:121
+#: includes/widgets/mh-posts-grid.php:133
+#: includes/widgets/mh-posts-list.php:121
+msgid "Title:"
+msgstr "Titlu:"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:119 includes/widgets/mh-posts-horizontal.php:158
+#: includes/widgets/mh-posts-focus.php:198
+#: includes/widgets/mh-posts-stacked.php:187 includes/widgets/mh-slider.php:151
+#: includes/widgets/mh-custom-posts.php:201
+#: includes/widgets/mh-spotlight.php:148 includes/widgets/mh-carousel.php:118
+#: includes/widgets/mh-posts-lineup.php:186
+#: includes/widgets/mh-posts-digest.php:208
+#: includes/widgets/mh-posts-large.php:129
+#: includes/widgets/mh-posts-grid.php:141
+#: includes/widgets/mh-posts-list.php:129
+msgid "Select a Category:"
+msgstr "Selectează o categorie:"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:121 includes/widgets/mh-posts-horizontal.php:160
+#: includes/widgets/mh-posts-focus.php:200
+#: includes/widgets/mh-posts-stacked.php:189 includes/widgets/mh-slider.php:153
+#: includes/widgets/mh-custom-posts.php:203
+#: includes/widgets/mh-spotlight.php:150 includes/widgets/mh-carousel.php:120
+#: includes/widgets/mh-posts-lineup.php:188
+#: includes/widgets/mh-posts-digest.php:210
+#: includes/widgets/mh-posts-large.php:131
+#: includes/widgets/mh-posts-grid.php:143
+#: includes/widgets/mh-posts-list.php:131
+msgid "All"
+msgstr "Toate"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:127 includes/widgets/mh-posts-horizontal.php:166
+#: includes/widgets/mh-posts-focus.php:206
+#: includes/widgets/mh-posts-stacked.php:195 includes/widgets/mh-slider.php:159
+#: includes/widgets/mh-custom-posts.php:209
+#: includes/widgets/mh-spotlight.php:156 includes/widgets/mh-carousel.php:126
+#: includes/widgets/mh-posts-lineup.php:194
+#: includes/widgets/mh-posts-digest.php:216
+#: includes/widgets/mh-posts-large.php:137
+#: includes/widgets/mh-posts-grid.php:149
+#: includes/widgets/mh-posts-list.php:137
+msgid "Select a category to display posts from."
+msgstr "Selectează o categorie din care să afișezi articole."
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:130 includes/widgets/mh-posts-horizontal.php:169
+#: includes/widgets/mh-posts-focus.php:209
+#: includes/widgets/mh-posts-stacked.php:198 includes/widgets/mh-slider.php:162
+#: includes/widgets/mh-custom-posts.php:212
+#: includes/widgets/mh-spotlight.php:159
+#: includes/widgets/mh-category-columns.php:163
+#: includes/widgets/mh-carousel.php:129
+#: includes/widgets/mh-posts-lineup.php:197
+#: includes/widgets/mh-posts-digest.php:219
+#: includes/widgets/mh-posts-large.php:140
+#: includes/widgets/mh-posts-grid.php:152
+#: includes/widgets/mh-posts-list.php:140
+msgid "Multiple Categories Filter by ID:"
+msgstr "Categorii multiple filtrate prin ID:"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:134 includes/widgets/mh-posts-horizontal.php:173
+#: includes/widgets/mh-posts-focus.php:213
+#: includes/widgets/mh-posts-stacked.php:202 includes/widgets/mh-slider.php:166
+#: includes/widgets/mh-custom-posts.php:216
+#: includes/widgets/mh-spotlight.php:163 includes/widgets/mh-carousel.php:133
+#: includes/widgets/mh-posts-lineup.php:201
+#: includes/widgets/mh-posts-digest.php:223
+#: includes/widgets/mh-posts-large.php:144
+#: includes/widgets/mh-posts-grid.php:156
+#: includes/widgets/mh-posts-list.php:144
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Filtrează postările după etichete (e.g. stil de viață):"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:138 includes/widgets/mh-posts-horizontal.php:177
+#: includes/widgets/mh-slider.php:170 includes/widgets/mh-custom-posts.php:220
+#: includes/widgets/mh-category-columns.php:176
+#: includes/widgets/mh-carousel.php:137 includes/widgets/mh-tabbed.php:110
+#: includes/widgets/mh-posts-digest.php:227
+#: includes/widgets/mh-posts-large.php:148
+#: includes/widgets/mh-posts-grid.php:160
+#: includes/widgets/mh-posts-list.php:148
+msgid "Post Count (max. 50):"
+msgstr "Număr de Articole (max. 50):"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:142 includes/widgets/mh-posts-horizontal.php:181
+#: includes/widgets/mh-posts-focus.php:217
+#: includes/widgets/mh-posts-stacked.php:206 includes/widgets/mh-slider.php:174
+#: includes/widgets/mh-custom-posts.php:224
+#: includes/widgets/mh-spotlight.php:167
+#: includes/widgets/mh-category-columns.php:180
+#: includes/widgets/mh-carousel.php:141
+#: includes/widgets/mh-posts-lineup.php:205
+#: includes/widgets/mh-posts-digest.php:231
+#: includes/widgets/mh-posts-large.php:152
+#: includes/widgets/mh-posts-grid.php:164
+#: includes/widgets/mh-posts-list.php:152
+msgid "Skip Posts (max. 50):"
+msgstr "Sari peste Articole (max. 50):"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:146 includes/widgets/mh-posts-horizontal.php:185
+#: includes/widgets/mh-posts-focus.php:221
+#: includes/widgets/mh-posts-stacked.php:210 includes/widgets/mh-slider.php:178
+#: includes/widgets/mh-custom-posts.php:228
+#: includes/widgets/mh-spotlight.php:171
+#: includes/widgets/mh-category-columns.php:184
+#: includes/widgets/mh-carousel.php:145
+#: includes/widgets/mh-posts-lineup.php:209
+#: includes/widgets/mh-posts-digest.php:235
+#: includes/widgets/mh-posts-large.php:156
+#: includes/widgets/mh-posts-grid.php:168
+#: includes/widgets/mh-posts-list.php:156
+msgid "Post Order:"
+msgstr "Ordinea Articolelor:"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:148 includes/widgets/mh-posts-horizontal.php:187
+#: includes/widgets/mh-posts-focus.php:223
+#: includes/widgets/mh-posts-stacked.php:212 includes/widgets/mh-slider.php:180
+#: includes/widgets/mh-custom-posts.php:230
+#: includes/widgets/mh-spotlight.php:173
+#: includes/widgets/mh-category-columns.php:186
+#: includes/widgets/mh-carousel.php:147
+#: includes/widgets/mh-posts-lineup.php:211
+#: includes/widgets/mh-posts-digest.php:237
+#: includes/widgets/mh-posts-large.php:158
+#: includes/widgets/mh-posts-grid.php:170
+#: includes/widgets/mh-posts-list.php:158
+msgid "Latest Posts"
+msgstr "Ultimele Articole"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:149 includes/widgets/mh-posts-horizontal.php:188
+#: includes/widgets/mh-posts-focus.php:224
+#: includes/widgets/mh-posts-stacked.php:213 includes/widgets/mh-slider.php:181
+#: includes/widgets/mh-custom-posts.php:231
+#: includes/widgets/mh-spotlight.php:174
+#: includes/widgets/mh-category-columns.php:187
+#: includes/widgets/mh-carousel.php:148
+#: includes/widgets/mh-posts-lineup.php:212
+#: includes/widgets/mh-posts-digest.php:238
+#: includes/widgets/mh-posts-large.php:159
+#: includes/widgets/mh-posts-grid.php:171
+#: includes/widgets/mh-posts-list.php:159
+msgid "Random Posts"
+msgstr "Articole Aleatoare"
+
+# @ mh-magazine
+#: includes/widgets/mh-nip.php:150 includes/widgets/mh-posts-horizontal.php:189
+#: includes/widgets/mh-posts-focus.php:225
+#: includes/widgets/mh-posts-stacked.php:214 includes/widgets/mh-slider.php:182
+#: includes/widgets/mh-custom-posts.php:232
+#: includes/widgets/mh-spotlight.php:175
+#: includes/widgets/mh-category-columns.php:188
+#: includes/widgets/mh-carousel.php:149
+#: includes/widgets/mh-posts-lineup.php:213
+#: includes/widgets/mh-posts-digest.php:239
+#: includes/widgets/mh-posts-large.php:160
+#: includes/widgets/mh-posts-grid.php:172
+#: includes/widgets/mh-posts-list.php:160
+msgid "Popular Posts"
+msgstr "Articole Populare"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-horizontal.php:8
+msgctxt "widget name"
+msgid "MH Posts Horizontal"
+msgstr "MH Posts Horizontal"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-horizontal.php:11
+msgid ""
+"MH Posts Horizontal widget to display a horizontal grid of posts including "
+"post titles and small thumbnails."
+msgstr ""
+"MH Posts Horizontal pentru a afișa o serie de articole, cu titlu și "
+"miniaturi."
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-horizontal.php:154
+#: includes/widgets/mh-posts-focus.php:194
+#: includes/widgets/mh-custom-pages.php:120
+#: includes/widgets/mh-posts-stacked.php:183
+#: includes/widgets/mh-custom-posts.php:197
+#: includes/widgets/mh-category-columns.php:159
+#: includes/widgets/mh-posts-lineup.php:182
+#: includes/widgets/mh-posts-digest.php:204 includes/widgets/mh-youtube.php:61
+#: includes/widgets/mh-posts-large.php:125
+#: includes/widgets/mh-posts-grid.php:137
+#: includes/widgets/mh-posts-list.php:125
+msgid "Link Title to custom URL (optional):"
+msgstr "Leagă titlul de URL personalizat (opțional):"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:8
+msgctxt "widget name"
+msgid "MH Recent Comments"
+msgstr "MH Recent Comments"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:11
+msgid ""
+"MH Recent Comments widget to display your recent comments including user "
+"avatars."
+msgstr ""
+"MH Recent Comments pentru a afișa comentariile recente incluzând avatarele "
+"userilor."
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:37
+#, php-format
+msgctxt "comment widget"
+msgid "%1$s on %2$s"
+msgstr "%1$s pe %2$s"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:66
+msgid "Recent Comments"
+msgstr "Comentarii Recente"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:73
+msgid "Limit Comment Number:"
+msgstr "Limitează numărul comentariilor:"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:77
+msgid "Skip Comments (Offset):"
+msgstr "Sari peste comentarii (ofset):"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:81
+#: includes/widgets/mh-authors.php:139
+msgid "Avatar Size in px:"
+msgstr "Dimensiunea în pixeli a avatarului:"
+
+# @ mh-magazine
+#: includes/widgets/mh-recent-comments.php:87
+#: includes/widgets/mh-authors.php:145
+msgid "No Avatars"
+msgstr "Nici un avatar"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-focus.php:8
+msgctxt "widget name"
+msgid "MH Posts Focus"
+msgstr "MH Posts Focus"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-focus.php:11
+msgid ""
+"MH Posts Focus widget to display 5 posts with focus on large post in the "
+"middle (if placed in full-width widget area)."
+msgstr ""
+"MH Posts Focus pentru a afișa 5 articole cu focus pe articolul în format "
+"extins din mijloc."
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-focus.php:230
+#: includes/widgets/mh-posts-stacked.php:219
+#: includes/widgets/mh-custom-posts.php:258
+#: includes/widgets/mh-category-columns.php:200
+#: includes/widgets/mh-posts-digest.php:257
+#: includes/widgets/mh-posts-large.php:165
+#: includes/widgets/mh-posts-grid.php:177
+#: includes/widgets/mh-posts-list.php:165
+msgid "Display Category"
+msgstr "Arată Categorie"
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:8
+msgctxt "widget name"
+msgid "MH Social"
+msgstr "MH Social"
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:11
+msgid ""
+"MH Social widget to display linked social media icons in sidebar or footer."
+msgstr ""
+"MH Social pentru a afișa icoane către mediile tale sociale în antet sau în "
+"subsol."
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:28
+msgid ""
+"Create a custom menu under \"Appearance => Menus\" in your WordPress "
+"dashboard to display social icons in this widget."
+msgstr ""
+"Creați un meniu personalizat în “Aspect => Meniuri” din tabloul de bord al "
+"programului WordPress pentru a afișa icoane sociale în acest widget."
+
+# @ mh-magazine
+#: includes/widgets/mh-social.php:38
+msgid "Stay connected"
+msgstr "Rămâi conectat"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:8
+msgctxt "widget name"
+msgid "MH Custom Pages"
+msgstr "MH Custom Pages"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:11
+msgid "MH Custom Pages Widget to display pages based on page IDs."
+msgstr "MH Custom Pages pentru a afișa pagini în funcție de ID-ul lor."
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:124
+msgid "Filter Pages by ID (comma separated):"
+msgstr "Filtrează paginile după ID (separate de virgulă):"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:128
+#: includes/widgets/mh-custom-posts.php:236
+#: includes/widgets/mh-posts-digest.php:243
+msgid "Display Excerpts:"
+msgstr "Afișază Excerpt:"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:130
+msgid "Excerpt for first Page"
+msgstr "Excerpt pentru prima pagină"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:131
+msgid "Excerpt for all Pages"
+msgstr "Excerpt pentru toate paginile"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:132
+#: includes/widgets/mh-custom-posts.php:240
+#: includes/widgets/mh-posts-digest.php:248
+msgid "No Excerpts"
+msgstr "Fără extrasuri"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:136 includes/widgets/mh-slider.php:203
+#: includes/widgets/mh-custom-posts.php:244
+#: includes/widgets/mh-spotlight.php:186
+#: includes/widgets/mh-posts-lineup.php:224
+#: includes/widgets/mh-posts-digest.php:252
+msgid "Custom Excerpt Length in Words:"
+msgstr "Lungimea extrasului personalizat în cuvinte:"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:140
+#: includes/widgets/mh-custom-posts.php:248
+msgid "Thumbnails:"
+msgstr "Miniaturi:"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:142
+#: includes/widgets/mh-custom-posts.php:250
+msgid "Show all Thumbnails"
+msgstr "Arată toate miniaturile"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:143
+#: includes/widgets/mh-custom-posts.php:251
+msgid "Hide all Thumbnails"
+msgstr "Ascunde toate miniaturile"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:144
+#: includes/widgets/mh-custom-posts.php:252
+msgid "Hide only large Thumbnails"
+msgstr "Ascunde numai miniaturile mari"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-pages.php:145
+#: includes/widgets/mh-custom-posts.php:253
+msgid "Hide only small Thumbnails"
+msgstr "Ascunde numai miniaturile mici"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-stacked.php:8
+msgctxt "widget name"
+msgid "MH Posts Stacked"
+msgstr "MH Posts Stacked"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-stacked.php:11
+msgid ""
+"MH Posts Stacked widget to display 5 stacked posts nicely including "
+"thumbnail, title and meta data."
+msgstr ""
+"MH Posts Stacked pentru a afișa 5 articole stivuite frumos, inclusiv "
+"miniatură, titlu și meta date."
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:8
+msgctxt "widget name"
+msgid "MH Slider"
+msgstr "MH Slider"
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:11
+msgid "MH Slider widget for use on homepage template."
+msgstr "MH Slider pentru a fi utilizat în pagina Home."
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:186 includes/widgets/mh-spotlight.php:179
+#: includes/widgets/mh-category-columns.php:192
+#: includes/widgets/mh-posts-lineup.php:217
+msgid "Image size:"
+msgstr "Dimensiunea imaginii:"
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:188 includes/widgets/mh-spotlight.php:181
+#: includes/widgets/mh-category-columns.php:194
+#: includes/widgets/mh-posts-lineup.php:219
+msgid "Normal"
+msgstr "Normal"
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:189 includes/widgets/mh-spotlight.php:182
+#: includes/widgets/mh-category-columns.php:195
+#: includes/widgets/mh-posts-lineup.php:220
+msgid "Large"
+msgstr "Extins"
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:193 includes/widgets/mh-custom-slider.php:264
+msgid "Slider Layout:"
+msgstr "Schemă Slider:"
+
+# @ mh-magazine
+#: includes/widgets/mh-slider.php:208 includes/widgets/mh-spotlight.php:191
+#: includes/widgets/mh-posts-lineup.php:229
+msgid "Disable Excerpt"
+msgstr "Dezactivează extrasul"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:8
+msgctxt "widget name"
+msgid "MH Custom Posts"
+msgstr "MH Custom Posts"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:11
+msgid "MH Custom Posts widget to display posts based on categories or tags."
+msgstr ""
+"MH Custom Posts pentru a afișa articole în funcție de categorii sau etichete."
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:238
+msgid "Excerpt for first Post"
+msgstr "Excerpt pentru prima postare"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-posts.php:239
+#: includes/widgets/mh-posts-digest.php:245
+msgid "Excerpt for all Posts"
+msgstr "Excerpt pentru toate postările"
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:8
+msgctxt "widget name"
+msgid "MH Spotlight"
+msgstr "MH Spotlight"
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:11
+msgid "MH Spotlight / Featured widget for use on homepage template."
+msgstr "MH Spotlight piesă pentru a fi folosită pe pagina principală - Home."
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:85
+#, php-format
+msgctxt "post meta"
+msgid "by %1$s in %2$s"
+msgstr "de %1$s în %2$s"
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:141
+msgid "In the Spotlight"
+msgstr "În Centrul Atenției"
+
+# @ mh-magazine
+#: includes/widgets/mh-spotlight.php:195
+msgid "Disable Post Meta"
+msgstr "Dezactivează postările Meta"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:8
+msgctxt "widget name"
+msgid "MH Facebook Page"
+msgstr "MH Facebook Page"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:11
+msgid "MH Facebook Page widget to display your Facebook page on your website."
+msgstr "MH Facebook Page care afișează Pagina ta Facebook la tine pe site."
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:16
+#: includes/widgets/mh-facebook-page.php:47
+msgid "Follow on Facebook"
+msgstr "Urmărește-ne pe Facebook"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:54
+msgid "Facebook Page URL:"
+msgstr "URL-ul paginii de Facebook:"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:58
+msgid "Width (min. 280px):"
+msgstr "Lungime (min. 280px):"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:62
+msgid "Height (min. 130px):"
+msgstr "Înălțime (min. 130px):"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:67
+msgid "Hide cover photo"
+msgstr "Ascunde fotografia de copertă"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:71
+msgid "Show profile photos"
+msgstr "Arată fotografiile de profil"
+
+# @ mh-magazine
+#: includes/widgets/mh-facebook-page.php:75
+msgid "Show posts from FB page"
+msgstr "Arată postările de pe pagina de FB"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:8
+msgctxt "widget name"
+msgid "MH Authors"
+msgstr "MH Authors"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:11
+msgid ""
+"MH Authors widget to display a list of authors including the number of "
+"published posts."
+msgstr ""
+"MH Authors pentru a afișa o listă a autorilor, inclusiv numărul de postări "
+"publicate."
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:56
+#, php-format
+msgctxt "author post count"
+msgid "published %d articles"
+msgstr "%d articole publicate"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:62
+msgid "No authors found"
+msgstr "Nici un autor nu a fost găsit"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:106
+msgid "Limit Author Number:"
+msgstr "Limitează numărul autorilor:"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:110
+msgid "Skip Authors (Offset):"
+msgstr "Sari peste autori (ofset):"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:114
+msgid "User Role:"
+msgstr "Rolul utilizatorului:"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:116
+msgid "All Users"
+msgstr "Toți utilizatorii"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:117
+msgid "Administrator"
+msgstr "Administrator"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:118
+msgid "Editor"
+msgstr "Editor"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:119
+msgid "Author"
+msgstr "Autor"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:120
+msgid "Contributor"
+msgstr "Colaborator"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:121
+msgid "Subscriber"
+msgstr "Înscriși"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:125
+msgid "Order Authors by:"
+msgstr "Ordonează autori după:"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:127
+msgid "Number of Posts"
+msgstr "Numărul postărilor"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:128
+msgid "User Name"
+msgstr "Nume de utilizator"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:132
+msgid "Order:"
+msgstr "Ordine:"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:134
+msgid "Ascending"
+msgstr "Crescător"
+
+# @ mh-magazine
+#: includes/widgets/mh-authors.php:135
+msgid "Descending"
+msgstr "Descrescător"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:8
+msgctxt "widget name"
+msgid "MH Custom Slider"
+msgstr "MH Custom Slider"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:11
+msgid ""
+"MH Custom Slider widget to display custom content for use on homepage "
+"template."
+msgstr ""
+"MH Custom Slider pentru a afișa conținut personalizat pentru a fi utilizat "
+"pe pagina Home."
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:163
+#: includes/widgets/mh-custom-slider.php:184
+#: includes/widgets/mh-custom-slider.php:205
+#: includes/widgets/mh-custom-slider.php:226
+#: includes/widgets/mh-custom-slider.php:247
+msgid "Custom URL:"
+msgstr "URL personalizat:"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:167
+#: includes/widgets/mh-custom-slider.php:188
+#: includes/widgets/mh-custom-slider.php:209
+#: includes/widgets/mh-custom-slider.php:230
+#: includes/widgets/mh-custom-slider.php:251
+msgid "Custom Image URL:"
+msgstr "URL-ul imaginii personalizate:"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:171
+#: includes/widgets/mh-custom-slider.php:192
+#: includes/widgets/mh-custom-slider.php:213
+#: includes/widgets/mh-custom-slider.php:234
+#: includes/widgets/mh-custom-slider.php:255
+msgid "Custom Excerpt:"
+msgstr "Excerpt personalizat:"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:172
+#: includes/widgets/mh-custom-slider.php:193
+#: includes/widgets/mh-custom-slider.php:214
+#: includes/widgets/mh-custom-slider.php:235
+#: includes/widgets/mh-custom-slider.php:256
+msgid "Enter Custom Excerpt"
+msgstr "Introdu Excerpt Personalizat"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:176
+#: includes/widgets/mh-custom-slider.php:197
+#: includes/widgets/mh-custom-slider.php:218
+#: includes/widgets/mh-custom-slider.php:239
+#: includes/widgets/mh-custom-slider.php:260
+msgid "Open Links in new Window / Tab"
+msgstr "Deschide linkurile într-o pagină nouă"
+
+# @ mh-magazine
+#: includes/widgets/mh-custom-slider.php:262
+msgid "Slider Settings:"
+msgstr "Setări Slider:"
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:8
+msgctxt "widget name"
+msgid "MH Category Columns"
+msgstr "MH Category Columns"
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:11
+msgid ""
+"MH Category Columns widget to display columns with posts from specific "
+"categories."
+msgstr ""
+"MH Category Columns pentru a afișa coloane cu articole din categorii "
+"specifice."
+
+# @ mh-magazine
+#: includes/widgets/mh-category-columns.php:167
+msgid "Number of Columns:"
+msgstr "Număr de Coloane:"
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:8
+msgctxt "widget name"
+msgid "MH Carousel"
+msgstr "MH Carousel"
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:11
+msgid "MH Carousel widget for use on homepage template."
+msgstr "MH Carousel pentru folosință în pagina Home."
+
+# @ mh-magazine
+#: includes/widgets/mh-carousel.php:153
+msgid "Carousel Layout:"
+msgstr "Schemă Carusel:"
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:8
+msgctxt "widget name"
+msgid "MH Tabbed"
+msgstr "MH Tabbed"
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:11
+msgid "MH Tabbed widget showing your latest posts, tags and comments."
+msgstr "MH Tabbed arată ultimele articole, etichete și comentarii."
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:76
+msgid "No comments found"
+msgstr "Nici un comentariu găsit"
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:114
+msgid "Tag Count:"
+msgstr "Număr de Etichete:"
+
+# @ mh-magazine
+#: includes/widgets/mh-tabbed.php:118
+msgid "Comment Count:"
+msgstr "Număr de Comentarii:"
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:8
+msgctxt "widget name"
+msgid "MH Author Bio"
+msgstr "MH Autor Bio"
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:11
+msgid "MH Author Bio widget to display author avatar and biographical info."
+msgstr "MH Autor Bio pentru a afișa avatar autor și informație biografică."
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:48
+msgid "About me"
+msgstr "Despre mine"
+
+# @ mh-magazine
+#: includes/widgets/mh-author-bio.php:55
+msgid "Select User:"
+msgstr "Selectează Utilizator:"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-lineup.php:8
+msgctxt "widget name"
+msgid "MH Posts Lineup"
+msgstr "MH Posts Lineup"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-lineup.php:11
+msgid ""
+"MH Posts Lineup widget to display one large featured post and a list of "
+"additional posts."
+msgstr ""
+"MH Posts Lineup pentru a afișa un articol important și o listă de articole "
+"suplimentare."
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:8
+msgctxt "widget name"
+msgid "MH Posts Digest"
+msgstr "MH Posts Digest"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:11
+msgid ""
+"MH Posts Digest widget to display 2 large featured posts with thumbnails and "
+"an overview of posts with post titles and excerpts."
+msgstr ""
+"MH Posts Digest pentru a afișa 2 articole mari recomandate cu miniaturi și o "
+"imagine de ansamblu a postărilor cu titluri și extrase."
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:246
+msgid "Excerpt for large Posts"
+msgstr "Excerpt pentru Articole lungi"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-digest.php:247
+msgid "Excerpt for small Posts"
+msgstr "Excerpt pentru Articole scurte"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:8
+msgctxt "widget name"
+msgid "MH YouTube Video"
+msgstr "MH YouTube Video"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:11
+msgid "MH YouTube Video widget to display a YouTube Video."
+msgstr "MH YouTube Video pentru a afișa un video de pe YouTube."
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:65
+msgid "Video ID:"
+msgstr "Video ID:"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:67
+msgid ""
+"Enter the YouTube video ID - also known as the watch code (e.g. AvOTBFM_3RQ)"
+msgstr ""
+"Introdu ID-ul pentru Video-ul YouTube - supranumit și codul de verificare (e."
+"g. AvOTBFM_3RQ)"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:71
+msgid "Enable Autoplay"
+msgstr "Activează Autoplay"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:75
+msgid "Display Video Title / Information"
+msgstr "Arată Titlu / Descriere Video"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:79
+msgid "Display Player Controls"
+msgstr "Arată Controale Utilizator"
+
+# @ mh-magazine
+#: includes/widgets/mh-youtube.php:83
+msgid "Recommend Related Videos"
+msgstr "Video Similare Recomandate"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-large.php:8
+msgctxt "widget name"
+msgid "MH Posts Large"
+msgstr "MH Posts Large"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-large.php:11
+msgid ""
+"MH Posts Large widget to display posts (large-sized) including thumbnail "
+"images."
+msgstr ""
+"MH Posts Large pentru a afișa articole în format extins, incluzând miniaturi."
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-grid.php:8
+msgctxt "widget name"
+msgid "MH Posts Grid"
+msgstr "MH Posts Grid"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-grid.php:11
+msgid ""
+"MH Posts Grid widget to display a grid of posts including thumbnail images."
+msgstr "MH Posts Grid pentru a afișa un tabel de articole cu miniaturi."
+
+#: includes/widgets/mh-posts-grid.php:181
+msgid "Display Post Meta"
+msgstr "Arată Meta Articol"
+
+#: includes/widgets/mh-posts-grid.php:185
+msgid "Display Excerpt"
+msgstr "Arată Extras Articol"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-list.php:8
+msgctxt "widget name"
+msgid "MH Posts List"
+msgstr "MH Posts List"
+
+# @ mh-magazine
+#: includes/widgets/mh-posts-list.php:11
+msgid "MH Posts List widget to display a list of posts with thumbnails."
+msgstr "MH Posts List pentru a afișa o listă de articole cu miniaturi."
+
+#. Name of the theme
+msgid "MH Magazine"
+msgstr "MH Magazine"
+
+#. Description of the theme
+msgid ""
+"MH Magazine is a clean, modern and fully responsive premium magazine "
+"WordPress theme for blogs, online magazines, news websites and other "
+"editorial projects. The theme includes useful page templates, several custom "
+"widgets and advanced theme options including colorpickers with unlimited "
+"colors to create your own color scheme."
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://www.mhthemes.com/themes/mh/magazine/"
+msgstr "https://www.mhthemes.com/themes/mh/magazine/"
+
+#. Author of the theme
+msgid "MH Themes"
+msgstr "MH Themes"
+
+#. Author URI of the theme
+msgid "https://www.mhthemes.com/"
+msgstr "https://www.mhthemes.com/"
